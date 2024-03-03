@@ -16,3 +16,8 @@ while ($numero <= 50) {
 
 }
 
+for ($i = 0; $i <=11; $i++){
+    $Tres= $i * 3 ."\n";
+
+    echo $Tres."\n";
+}
